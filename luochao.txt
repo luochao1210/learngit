@@ -1,1 +1,3 @@
-1234
+上传："git add ." 或者“git add + 文件名”
+再："git commit -m ."
+再："git push orign master"
